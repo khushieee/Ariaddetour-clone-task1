@@ -2,4 +2,4 @@
 
 Check out: https://ariadetourclone.netlify.app/
 
-Aria Detour is a travel company, possibly specializing in tours and rentals, with a presence in Bhubaneshwar, India.
+ARIA DETOUR is a Bhubaneswar based travel agency which provides specially designed tours packages across the world
